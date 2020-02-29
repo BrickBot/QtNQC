@@ -1,0 +1,661 @@
+Number of log entries: 627
+In file /home/monster/qtnqc.d/break.cc at line 10 column 14: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/break.cc at line 16 column 13: QPointArray -> Q3PointArray
+In file /home/monster/qtnqc.d/break.cc at line 17 column 13: QPointArray -> Q3PointArray
+In file /home/monster/qtnqc.d/break.cc at line 30 column 32: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/break.cc at line 40 column 28: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/break.cc at line 53 column 28: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/break.cc at line 70 column 28: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/break.cc at line 87 column 31: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/break.cc at line 97 column 31: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/break.cc at line 132 column 14: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/break.cc at line 141 column 13: QPointArray -> Q3PointArray
+In file /home/monster/qtnqc.d/break.cc at line 142 column 13: QPointArray -> Q3PointArray
+In file /home/monster/qtnqc.d/break.cc: Added the following include directives:
+	#include <Q3PointArray> 
+In file /home/monster/qtnqc.d/constant.cc at line 9 column 54: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/constant.cc at line 18 column 13: QPointArray -> Q3PointArray
+In file /home/monster/qtnqc.d/constant.cc at line 36 column 32: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/constant.cc at line 46 column 28: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/constant.cc at line 59 column 29: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/constant.cc at line 68 column 28: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/constant.cc at line 86 column 31: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/constant.cc at line 96 column 31: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/constant.cc at line 131 column 14: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/constant.cc at line 140 column 13: QPointArray -> Q3PointArray
+In file /home/monster/qtnqc.d/constant.cc: Added the following include directives:
+	#include <Q3PointArray> 
+In file /home/monster/qtnqc.d/continue.cc at line 10 column 13: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/continue.cc at line 16 column 13: QPointArray -> Q3PointArray
+In file /home/monster/qtnqc.d/continue.cc at line 29 column 32: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/continue.cc at line 39 column 28: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/continue.cc at line 52 column 28: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/continue.cc at line 69 column 31: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/continue.cc at line 79 column 31: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/continue.cc at line 113 column 14: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/continue.cc at line 122 column 13: QPointArray -> Q3PointArray
+In file /home/monster/qtnqc.d/continue.cc: Added the following include directives:
+	#include <Q3PointArray> 
+In file /home/monster/qtnqc.d/diagram_writer.cc at line 17 column 25: IO_Truncate -> QIODevice::Truncate
+In file /home/monster/qtnqc.d/diagram_writer.cc at line 17 column 40: IO_Translate -> QIODevice::Translate
+In file /home/monster/qtnqc.d/diagram_writer.cc at line 17 column 55: IO_WriteOnly -> QIODevice::WriteOnly
+In file /home/monster/qtnqc.d/diagram_writer.cc: Added the following include directives:
+	#include <QTextStream> 
+In file /home/monster/qtnqc.d/dragobject.cc at line 16 column 39: QStoredDrag -> Q3StoredDrag
+In file /home/monster/qtnqc.d/dragobject.cc: Added the following include directives:
+	#include <QDragMoveEvent> 	#include <QDropEvent> 
+In file /home/monster/qtnqc.d/editor.cc at line 23 column 25: qprogressdialog.h -> q3progressdialog.h
+In file /home/monster/qtnqc.d/editor.cc at line 39 column 23: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.cc at line 40 column 23: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.cc at line 41 column 23: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.cc at line 42 column 23: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.cc at line 43 column 23: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.cc at line 44 column 23: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.cc at line 45 column 23: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.cc at line 46 column 44: QCanvasItem -> Q3CanvasItem
+In file /home/monster/qtnqc.d/editor.cc at line 91 column 40: QMainWindow -> Q3MainWindow
+In file /home/monster/qtnqc.d/editor.cc at line 232 column 40: QMainWindow -> Q3MainWindow
+In file /home/monster/qtnqc.d/editor.cc at line 233 column 17: QCanvasItemList -> Q3CanvasItemList
+In file /home/monster/qtnqc.d/editor.cc at line 1030 column 41: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/editor.cc at line 1032 column 60: WFlags -> Qt::WFlags
+In file /home/monster/qtnqc.d/editor.cc at line 1033 column 13: QCanvasView -> Q3CanvasView
+In file /home/monster/qtnqc.d/editor.cc at line 1040 column 24: QWidget -> Qt
+In file /home/monster/qtnqc.d/editor.cc at line 1062 column 38: QCanvasRectangle -> Q3CanvasRectangle
+In file /home/monster/qtnqc.d/editor.cc at line 1067 column 41: QPen -> Qt
+In file /home/monster/qtnqc.d/editor.cc at line 1076 column 31: QPopupMenu -> Q3PopupMenu
+In file /home/monster/qtnqc.d/editor.cc at line 1080 column 35: QPopupMenu -> Q3PopupMenu
+In file /home/monster/qtnqc.d/editor.cc at line 1084 column 35: QPopupMenu -> Q3PopupMenu
+In file /home/monster/qtnqc.d/editor.cc at line 1088 column 41: QPopupMenu -> Q3PopupMenu
+In file /home/monster/qtnqc.d/editor.cc at line 1118 column 26: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.cc at line 1122 column 27: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.cc at line 1126 column 30: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.cc at line 1130 column 28: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.cc at line 1134 column 26: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.cc at line 1138 column 26: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.cc at line 1142 column 32: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.cc at line 1146 column 30: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.cc at line 1150 column 30: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.cc at line 1154 column 30: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.cc at line 1158 column 26: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.cc at line 1194 column 40: QMainWindow -> Q3MainWindow
+In file /home/monster/qtnqc.d/editor.cc at line 1318 column 16: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.cc at line 1349 column 15: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.cc at line 1680 column 16: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.cc at line 1725 column 40: QMainWindow -> Q3MainWindow
+In file /home/monster/qtnqc.d/editor.cc at line 1739 column 34: ShiftButton -> ShiftModifier
+In file /home/monster/qtnqc.d/editor.cc at line 1804 column 34: ShiftButton -> ShiftModifier
+In file /home/monster/qtnqc.d/editor.cc at line 1870 column 34: ShiftButton -> ShiftModifier
+In file /home/monster/qtnqc.d/editor.cc at line 1935 column 34: ShiftButton -> ShiftModifier
+In file /home/monster/qtnqc.d/editor.cc at line 2352 column 40: QMainWindow -> Q3MainWindow
+In file /home/monster/qtnqc.d/editor.cc at line 2503 column 17: QCanvasItemList -> Q3CanvasItemList
+In file /home/monster/qtnqc.d/editor.cc at line 2776 column 17: QProgressDialog -> Q3ProgressDialog
+In file /home/monster/qtnqc.d/editor.cc at line 2900 column 36: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.cc at line 2916 column 12: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.cc at line 3068 column 40: QMainWindow -> Q3MainWindow
+In file /home/monster/qtnqc.d/editor.cc: Added the following include directives:
+	#include <QKeyEvent> 	#include <Q3PtrList> 	#include <QDragEnterEvent> 	#include <QDragMoveEvent> 	#include <QDropEvent> 	#include <Q3PopupMenu> 	#include <QMouseEvent> 	#include <QEvent> 	#include <QTextStream> 
+In file /home/monster/qtnqc.d/function.cc at line 11 column 54: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/function.cc at line 20 column 13: QPointArray -> Q3PointArray
+In file /home/monster/qtnqc.d/function.cc at line 49 column 32: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/function.cc at line 59 column 28: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/function.cc at line 72 column 28: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/function.cc at line 81 column 28: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/function.cc at line 98 column 31: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/function.cc at line 108 column 31: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/function.cc at line 145 column 14: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/function.cc at line 154 column 13: QPointArray -> Q3PointArray
+In file /home/monster/qtnqc.d/function.cc: Added the following include directives:
+	#include <Q3PointArray> 
+In file /home/monster/qtnqc.d/function_window.cc at line 10 column 40: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/function_window.cc at line 11 column 33: WFlags -> Qt::WFlags
+In file /home/monster/qtnqc.d/function_window.cc at line 12 column 13: QCanvasView -> Q3CanvasView
+In file /home/monster/qtnqc.d/function_window.cc at line 25 column 13: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/function_window.cc at line 26 column 13: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/function_window.cc at line 27 column 13: QPointArray -> Q3PointArray
+In file /home/monster/qtnqc.d/function_window.cc at line 28 column 13: QPointArray -> Q3PointArray
+In file /home/monster/qtnqc.d/function_window.cc at line 29 column 13: QPointArray -> Q3PointArray
+In file /home/monster/qtnqc.d/function_window.cc at line 30 column 16: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/function_window.cc at line 31 column 18: QCanvasRectangle -> Q3CanvasRectangle
+In file /home/monster/qtnqc.d/function_window.cc at line 122 column 38: QCanvasRectangle -> Q3CanvasRectangle
+In file /home/monster/qtnqc.d/function_window.cc at line 144 column 36: QCanvasRectangle -> Q3CanvasRectangle
+In file /home/monster/qtnqc.d/function_window.cc at line 160 column 29: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/function_window.cc at line 176 column 32: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/function_window.cc at line 188 column 32: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/function_window.cc at line 217 column 36: QCanvasRectangle -> Q3CanvasRectangle
+In file /home/monster/qtnqc.d/function_window.cc at line 228 column 29: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/function_window.cc at line 238 column 32: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/function_window.cc at line 250 column 32: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/function_window.cc at line 269 column 34: QCanvasRectangle -> Q3CanvasRectangle
+In file /home/monster/qtnqc.d/function_window.cc at line 282 column 32: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/function_window.cc at line 297 column 29: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/function_window.cc at line 306 column 29: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/function_window.cc at line 317 column 29: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/function_window.cc at line 326 column 29: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/function_window.cc at line 337 column 29: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/function_window.cc at line 346 column 29: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/function_window.cc at line 357 column 29: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/function_window.cc at line 366 column 29: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/function_window.cc at line 378 column 29: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/function_window.cc at line 401 column 34: QCanvasRectangle -> Q3CanvasRectangle
+In file /home/monster/qtnqc.d/function_window.cc at line 414 column 32: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/function_window.cc at line 432 column 32: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/function_window.cc at line 438 column 29: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/function_window.cc at line 473 column 29: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/function_window.cc at line 496 column 34: QCanvasRectangle -> Q3CanvasRectangle
+In file /home/monster/qtnqc.d/function_window.cc at line 509 column 32: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/function_window.cc at line 522 column 32: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/function_window.cc at line 538 column 29: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/function_window.cc at line 611 column 19: QMainWindow -> Q3MainWindow
+In file /home/monster/qtnqc.d/function_window.cc at line 616 column 19: QMainWindow -> Q3MainWindow
+In file /home/monster/qtnqc.d/function_window.cc: Added the following include directives:
+	#include <Q3PointArray> 	#include <QMouseEvent> 
+In file /home/monster/qtnqc.d/gate.cc at line 10 column 11: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/gate.cc at line 18 column 13: QPointArray -> Q3PointArray
+In file /home/monster/qtnqc.d/gate.cc at line 35 column 32: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/gate.cc at line 45 column 28: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/gate.cc at line 81 column 28: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/gate.cc at line 111 column 35: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/gate.cc at line 123 column 31: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/gate.cc at line 124 column 31: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/gate.cc at line 146 column 31: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/gate.cc at line 181 column 14: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/gate.cc at line 190 column 13: QPointArray -> Q3PointArray
+In file /home/monster/qtnqc.d/gate.cc: Added the following include directives:
+	#include <Q3PointArray> 
+In file /home/monster/qtnqc.d/list_objects.cc at line 10 column 11: QGroupBox -> Q3GroupBox
+In file /home/monster/qtnqc.d/list_objects.cc at line 11 column 13: QGridLayout -> Q3GridLayout
+In file /home/monster/qtnqc.d/list_objects.cc at line 12 column 13: QHBoxLayout -> Q3HBoxLayout
+In file /home/monster/qtnqc.d/list_objects.cc at line 17 column 31: QGridLayout -> Q3GridLayout
+In file /home/monster/qtnqc.d/list_objects.cc at line 21 column 31: QHBoxLayout -> Q3HBoxLayout
+In file /home/monster/qtnqc.d/list_objects.cc at line 42 column 31: QGroupBox -> Q3GroupBox
+In file /home/monster/qtnqc.d/list_objects.cc at line 42 column 44: QGroupBox -> Qt
+In file /home/monster/qtnqc.d/list_objects.cc at line 42 column 44: QGroupBox -> Qt
+In file /home/monster/qtnqc.d/list_objects.cc at line 47 column 24: QTable -> Q3Table
+In file /home/monster/qtnqc.d/list_objects.cc at line 54 column 32: QTable -> Q3Table
+In file /home/monster/qtnqc.d/list_objects.cc: Added the following include directives:
+	#include <Q3GridLayout> 	#include <Q3HBoxLayout> 
+In file /home/monster/qtnqc.d/loop.cc at line 11 column 37: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/loop.cc at line 13 column 12: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/loop.cc at line 22 column 13: QPointArray -> Q3PointArray
+In file /home/monster/qtnqc.d/loop.cc at line 37 column 32: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/loop.cc at line 47 column 28: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/loop.cc at line 60 column 29: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/loop.cc at line 69 column 29: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/loop.cc at line 90 column 31: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/loop.cc at line 100 column 31: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/loop.cc at line 135 column 14: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/loop.cc at line 144 column 13: QPointArray -> Q3PointArray
+In file /home/monster/qtnqc.d/loop.cc: Added the following include directives:
+	#include <Q3PointArray> 	#include <Q3PtrList> 
+In file /home/monster/qtnqc.d/object.cc at line 21 column 19: qgroupbox.h -> q3groupbox.h
+In file /home/monster/qtnqc.d/object.cc at line 23 column 21: qmainwindow.h -> q3mainwindow.h
+In file /home/monster/qtnqc.d/object.cc at line 36 column 15: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/object.cc at line 37 column 16: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/object.cc at line 44 column 11: QGroupBox -> Q3GroupBox
+In file /home/monster/qtnqc.d/object.cc at line 45 column 11: QGroupBox -> Q3GroupBox
+In file /home/monster/qtnqc.d/object.cc at line 46 column 12: QPopupMenu -> Q3PopupMenu
+In file /home/monster/qtnqc.d/object.cc at line 47 column 12: QPopupMenu -> Q3PopupMenu
+In file /home/monster/qtnqc.d/object.cc at line 49 column 13: QGridLayout -> Q3GridLayout
+In file /home/monster/qtnqc.d/object.cc at line 50 column 13: QHBoxLayout -> Q3HBoxLayout
+In file /home/monster/qtnqc.d/object.cc at line 87 column 29: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/object.cc at line 87 column 44: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/object.cc at line 108 column 35: QMainWindow -> Q3MainWindow
+In file /home/monster/qtnqc.d/object.cc at line 114 column 35: QGridLayout -> Q3GridLayout
+In file /home/monster/qtnqc.d/object.cc at line 118 column 35: QHBoxLayout -> Q3HBoxLayout
+In file /home/monster/qtnqc.d/object.cc at line 127 column 36: QGroupBox -> Q3GroupBox
+In file /home/monster/qtnqc.d/object.cc at line 127 column 49: QGroupBox -> Qt
+In file /home/monster/qtnqc.d/object.cc at line 127 column 49: QGroupBox -> Qt
+In file /home/monster/qtnqc.d/object.cc at line 141 column 36: QGroupBox -> Q3GroupBox
+In file /home/monster/qtnqc.d/object.cc at line 141 column 49: QGroupBox -> Qt
+In file /home/monster/qtnqc.d/object.cc at line 141 column 49: QGroupBox -> Qt
+In file /home/monster/qtnqc.d/object.cc at line 199 column 35: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/object.cc at line 203 column 32: QCanvasView -> Q3CanvasView
+In file /home/monster/qtnqc.d/object.cc at line 207 column 35: QPopupMenu -> Q3PopupMenu
+In file /home/monster/qtnqc.d/object.cc at line 211 column 35: QPopupMenu -> Q3PopupMenu
+In file /home/monster/qtnqc.d/object.cc at line 221 column 19: QMainWindow -> Q3MainWindow
+In file /home/monster/qtnqc.d/object.cc at line 222 column 19: QMainWindow -> Q3MainWindow
+In file /home/monster/qtnqc.d/object.cc at line 227 column 33: QGroupBox -> Q3GroupBox
+In file /home/monster/qtnqc.d/object.cc at line 227 column 46: QGroupBox -> Qt
+In file /home/monster/qtnqc.d/object.cc at line 227 column 46: QGroupBox -> Qt
+In file /home/monster/qtnqc.d/object.cc at line 232 column 33: QGroupBox -> Q3GroupBox
+In file /home/monster/qtnqc.d/object.cc at line 232 column 46: QGroupBox -> Qt
+In file /home/monster/qtnqc.d/object.cc at line 232 column 46: QGroupBox -> Qt
+In file /home/monster/qtnqc.d/object.cc at line 257 column 16: QMainWindow -> Q3MainWindow
+In file /home/monster/qtnqc.d/object.cc at line 266 column 16: QMainWindow -> Q3MainWindow
+In file /home/monster/qtnqc.d/object.cc at line 272 column 26: QMainWindow -> Q3MainWindow
+In file /home/monster/qtnqc.d/object.cc at line 442 column 8: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/object.cc at line 442 column 23: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/object.cc at line 588 column 7: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/object.cc: Added the following include directives:
+	#include <Q3HBoxLayout> 	#include <Q3GridLayout> 	#include <QPixmap> 	#include <Q3PtrList> 	#include <Q3PopupMenu> 	#include <QTextStream> 
+In file /home/monster/qtnqc.d/options_reader.cc at line 80 column 25: IO_ReadOnly -> QIODevice::ReadOnly
+In file /home/monster/qtnqc.d/options_reader.cc at line 109 column 5: QDict -> Q3Dict
+In file /home/monster/qtnqc.d/options_reader.cc: Added the following include directives:
+	#include <QTextStream> 
+No changes made to file /home/monster/qtnqc.d/qtnqc_download_thread.cc
+In file /home/monster/qtnqc.d/qtnqc_main.cc at line 92 column 9: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/qtnqc_main.cc at line 93 column 9: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/qtnqc_main.cc at line 94 column 9: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/qtnqc_main.cc at line 95 column 12: QPopupMenu -> Q3PopupMenu
+In file /home/monster/qtnqc.d/qtnqc_main.cc at line 96 column 12: QPopupMenu -> Q3PopupMenu
+In file /home/monster/qtnqc.d/qtnqc_main.cc at line 97 column 12: QPopupMenu -> Q3PopupMenu
+In file /home/monster/qtnqc.d/qtnqc_main.cc at line 98 column 12: QPopupMenu -> Q3PopupMenu
+In file /home/monster/qtnqc.d/qtnqc_main.cc at line 99 column 12: QPopupMenu -> Q3PopupMenu
+In file /home/monster/qtnqc.d/qtnqc_main.cc at line 100 column 13: QMainWindow -> Q3MainWindow
+In file /home/monster/qtnqc.d/qtnqc_main.cc at line 101 column 13: QMainWindow -> Q3MainWindow
+In file /home/monster/qtnqc.d/qtnqc_main.cc at line 115 column 31: QMainWindow -> Q3MainWindow
+In file /home/monster/qtnqc.d/qtnqc_main.cc at line 117 column 43: WStyle_Dialog -> WType_Dialog
+In file /home/monster/qtnqc.d/qtnqc_main.cc at line 129 column 31: QMainWindow -> Q3MainWindow
+In file /home/monster/qtnqc.d/qtnqc_main.cc at line 131 column 43: WStyle_Dialog -> WType_Dialog
+In file /home/monster/qtnqc.d/qtnqc_main.cc at line 143 column 27: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/qtnqc_main.cc at line 147 column 27: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/qtnqc_main.cc at line 167 column 26: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/qtnqc_main.cc at line 186 column 31: QPopupMenu -> Q3PopupMenu
+In file /home/monster/qtnqc.d/qtnqc_main.cc at line 190 column 31: QPopupMenu -> Q3PopupMenu
+In file /home/monster/qtnqc.d/qtnqc_main.cc at line 195 column 31: QPopupMenu -> Q3PopupMenu
+In file /home/monster/qtnqc.d/qtnqc_main.cc at line 199 column 31: QPopupMenu -> Q3PopupMenu
+In file /home/monster/qtnqc.d/qtnqc_main.cc at line 203 column 33: QPopupMenu -> Q3PopupMenu
+In file /home/monster/qtnqc.d/qtnqc_main.cc at line 398 column 11: QMainWindow -> Q3MainWindow
+In file /home/monster/qtnqc.d/qtnqc_main.cc at line 567 column 26: QFileDialog -> Q3FileDialog
+In file /home/monster/qtnqc.d/qtnqc_main.cc at line 592 column 24: QFileDialog -> Q3FileDialog
+In file /home/monster/qtnqc.d/qtnqc_main.cc at line 648 column 25: IO_ReadOnly -> QIODevice::ReadOnly
+In file /home/monster/qtnqc.d/qtnqc_main.cc at line 648 column 40: IO_Translate -> QIODevice::Translate
+In file /home/monster/qtnqc.d/qtnqc_main.cc at line 689 column 10: QValueList -> Q3ValueList
+In file /home/monster/qtnqc.d/qtnqc_main.cc at line 696 column 10: QValueList -> Q3ValueList
+In file /home/monster/qtnqc.d/qtnqc_main.cc at line 703 column 10: QValueList -> Q3ValueList
+In file /home/monster/qtnqc.d/qtnqc_main.cc: Added the following include directives:
+	#include <QCloseEvent> 	#include <Q3ValueList> 	#include <QPixmap> 	#include <Q3PopupMenu> 
+In file /home/monster/qtnqc.d/rename_window.cc at line 22 column 11: QGroupBox -> Q3GroupBox
+In file /home/monster/qtnqc.d/rename_window.cc at line 23 column 11: QGroupBox -> Q3GroupBox
+In file /home/monster/qtnqc.d/rename_window.cc at line 24 column 13: QGridLayout -> Q3GridLayout
+In file /home/monster/qtnqc.d/rename_window.cc at line 25 column 13: QHBoxLayout -> Q3HBoxLayout
+In file /home/monster/qtnqc.d/rename_window.cc at line 30 column 31: QGridLayout -> Q3GridLayout
+In file /home/monster/qtnqc.d/rename_window.cc at line 34 column 31: QHBoxLayout -> Q3HBoxLayout
+In file /home/monster/qtnqc.d/rename_window.cc at line 38 column 32: QGroupBox -> Q3GroupBox
+In file /home/monster/qtnqc.d/rename_window.cc at line 38 column 45: QGroupBox -> Qt
+In file /home/monster/qtnqc.d/rename_window.cc at line 38 column 45: QGroupBox -> Qt
+In file /home/monster/qtnqc.d/rename_window.cc at line 43 column 32: QGroupBox -> Q3GroupBox
+In file /home/monster/qtnqc.d/rename_window.cc at line 43 column 45: QGroupBox -> Qt
+In file /home/monster/qtnqc.d/rename_window.cc at line 43 column 45: QGroupBox -> Qt
+In file /home/monster/qtnqc.d/rename_window.cc: Added the following include directives:
+	#include <Q3GridLayout> 	#include <Q3HBoxLayout> 	#include <QLabel> 
+In file /home/monster/qtnqc.d/return.cc at line 10 column 16: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/return.cc at line 16 column 13: QPointArray -> Q3PointArray
+In file /home/monster/qtnqc.d/return.cc at line 29 column 32: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/return.cc at line 39 column 28: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/return.cc at line 52 column 28: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/return.cc at line 69 column 31: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/return.cc at line 79 column 31: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/return.cc at line 113 column 14: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/return.cc at line 122 column 13: QPointArray -> Q3PointArray
+In file /home/monster/qtnqc.d/return.cc: Added the following include directives:
+	#include <Q3PointArray> 
+No changes made to file /home/monster/qtnqc.d/search_thread.cc
+No changes made to file /home/monster/qtnqc.d/settings.cc
+In file /home/monster/qtnqc.d/settings_window.cc at line 20 column 44: QMainWindow -> Q3MainWindow
+In file /home/monster/qtnqc.d/settings_window.cc at line 21 column 12: QTabDialog -> Q3TabDialog
+In file /home/monster/qtnqc.d/settings_window.cc at line 81 column 8: QFrame -> Q3Frame
+In file /home/monster/qtnqc.d/settings_window.cc at line 82 column 13: QGridLayout -> Q3GridLayout
+In file /home/monster/qtnqc.d/settings_window.cc at line 84 column 22: QFrame -> Q3Frame
+In file /home/monster/qtnqc.d/settings_window.cc at line 88 column 30: QGridLayout -> Q3GridLayout
+In file /home/monster/qtnqc.d/settings_window.cc at line 137 column 8: QFrame -> Q3Frame
+In file /home/monster/qtnqc.d/settings_window.cc at line 139 column 13: QGridLayout -> Q3GridLayout
+In file /home/monster/qtnqc.d/settings_window.cc at line 142 column 22: QFrame -> Q3Frame
+In file /home/monster/qtnqc.d/settings_window.cc at line 146 column 30: QGridLayout -> Q3GridLayout
+In file /home/monster/qtnqc.d/settings_window.cc at line 178 column 8: QFrame -> Q3Frame
+In file /home/monster/qtnqc.d/settings_window.cc at line 179 column 13: QGridLayout -> Q3GridLayout
+In file /home/monster/qtnqc.d/settings_window.cc at line 181 column 22: QFrame -> Q3Frame
+In file /home/monster/qtnqc.d/settings_window.cc at line 185 column 30: QGridLayout -> Q3GridLayout
+In file /home/monster/qtnqc.d/settings_window.cc at line 218 column 25: IO_Truncate -> QIODevice::Truncate
+In file /home/monster/qtnqc.d/settings_window.cc at line 218 column 40: IO_WriteOnly -> QIODevice::WriteOnly
+In file /home/monster/qtnqc.d/settings_window.cc at line 231 column 41: QMainWindow -> Q3MainWindow
+In file /home/monster/qtnqc.d/settings_window.cc at line 232 column 40: QMainWindow -> Q3MainWindow
+In file /home/monster/qtnqc.d/settings_window.cc at line 233 column 42: QMainWindow -> Q3MainWindow
+In file /home/monster/qtnqc.d/settings_window.cc at line 234 column 42: QMainWindow -> Q3MainWindow
+In file /home/monster/qtnqc.d/settings_window.cc at line 449 column 16: QMainWindow -> Q3MainWindow
+In file /home/monster/qtnqc.d/settings_window.cc at line 452 column 16: QMainWindow -> Q3MainWindow
+In file /home/monster/qtnqc.d/settings_window.cc at line 469 column 24: QFileDialog -> Q3FileDialog
+In file /home/monster/qtnqc.d/settings_window.cc: Added the following include directives:
+	#include <Q3GridLayout> 	#include <Q3Frame> 	#include <QPixmap> 	#include <QLabel> 	#include <QTextStream> 
+In file /home/monster/qtnqc.d/subroutine.cc at line 12 column 58: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/subroutine.cc at line 13 column 37: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/subroutine.cc at line 24 column 13: QPointArray -> Q3PointArray
+In file /home/monster/qtnqc.d/subroutine.cc at line 58 column 32: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/subroutine.cc at line 68 column 28: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/subroutine.cc at line 81 column 28: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/subroutine.cc at line 90 column 28: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/subroutine.cc at line 107 column 31: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/subroutine.cc at line 117 column 31: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/subroutine.cc at line 154 column 14: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/subroutine.cc at line 163 column 13: QPointArray -> Q3PointArray
+In file /home/monster/qtnqc.d/subroutine.cc: Added the following include directives:
+	#include <Q3PointArray> 	#include <Q3PtrList> 
+In file /home/monster/qtnqc.d/task.cc at line 12 column 46: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/task.cc at line 13 column 32: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/task.cc at line 24 column 13: QPointArray -> Q3PointArray
+In file /home/monster/qtnqc.d/task.cc at line 58 column 32: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/task.cc at line 68 column 28: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/task.cc at line 81 column 28: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/task.cc at line 90 column 28: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/task.cc at line 107 column 31: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/task.cc at line 117 column 31: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/task.cc at line 154 column 14: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/task.cc at line 163 column 13: QPointArray -> Q3PointArray
+In file /home/monster/qtnqc.d/task.cc: Added the following include directives:
+	#include <Q3PointArray> 	#include <Q3PtrList> 
+In file /home/monster/qtnqc.d/tools_window.cc at line 12 column 34: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/tools_window.cc at line 14 column 12: WFlags -> Qt::WFlags
+In file /home/monster/qtnqc.d/tools_window.cc at line 15 column 13: QCanvasView -> Q3CanvasView
+In file /home/monster/qtnqc.d/tools_window.cc at line 21 column 13: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/tools_window.cc at line 22 column 13: QPointArray -> Q3PointArray
+In file /home/monster/qtnqc.d/tools_window.cc at line 23 column 16: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/tools_window.cc at line 24 column 18: QCanvasRectangle -> Q3CanvasRectangle
+In file /home/monster/qtnqc.d/tools_window.cc at line 39 column 38: QCanvasRectangle -> Q3CanvasRectangle
+In file /home/monster/qtnqc.d/tools_window.cc at line 52 column 36: QCanvasRectangle -> Q3CanvasRectangle
+In file /home/monster/qtnqc.d/tools_window.cc at line 61 column 32: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/tools_window.cc at line 74 column 32: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/tools_window.cc at line 142 column 19: QMainWindow -> Q3MainWindow
+In file /home/monster/qtnqc.d/tools_window.cc at line 147 column 19: QMainWindow -> Q3MainWindow
+In file /home/monster/qtnqc.d/tools_window.cc: Added the following include directives:
+	#include <Q3PointArray> 	#include <QMouseEvent> 
+In file /home/monster/qtnqc.d/variable.cc at line 10 column 54: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/variable.cc at line 11 column 41: QValueList -> Q3ValueList
+In file /home/monster/qtnqc.d/variable.cc at line 21 column 13: QPointArray -> Q3PointArray
+In file /home/monster/qtnqc.d/variable.cc at line 55 column 32: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/variable.cc at line 65 column 28: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/variable.cc at line 88 column 28: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/variable.cc at line 97 column 28: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/variable.cc at line 114 column 31: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/variable.cc at line 124 column 31: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/variable.cc at line 159 column 14: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/variable.cc at line 168 column 13: QPointArray -> Q3PointArray
+In file /home/monster/qtnqc.d/variable.cc: Added the following include directives:
+	#include <Q3PointArray> 	#include <Q3ValueList> 
+In file /home/monster/qtnqc.d/wire.cc at line 8 column 23: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/wire.cc at line 8 column 35: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/wire.cc at line 10 column 18: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/wire.cc at line 16 column 13: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/wire.cc at line 23 column 26: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/wire.cc at line 23 column 38: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/wire.cc at line 75 column 27: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/wire.cc: Added the following include directives:
+	#include <Q3PtrList> 
+In file /home/monster/qtnqc.d/break.h at line 7 column 13: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/break.h at line 8 column 17: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/break.h at line 9 column 17: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/break.h at line 10 column 20: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/break.h at line 11 column 20: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/break.h at line 21 column 41: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/break.h at line 23 column 16: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/break.h at line 30 column 9: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/break.h at line 31 column 13: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/break.h at line 32 column 13: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/break.h at line 33 column 16: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/break.h at line 34 column 16: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/break.h at line 35 column 16: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/break.h at line 36 column 16: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/constant.h at line 7 column 13: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/constant.h at line 8 column 17: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/constant.h at line 9 column 17: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/constant.h at line 10 column 20: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/constant.h at line 11 column 20: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/constant.h at line 21 column 40: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/constant.h at line 24 column 16: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/constant.h at line 32 column 9: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/constant.h at line 33 column 13: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/constant.h at line 34 column 13: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/constant.h at line 35 column 13: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/constant.h at line 36 column 16: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/constant.h at line 37 column 16: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/constant.h at line 38 column 16: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/continue.h at line 7 column 13: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/continue.h at line 8 column 17: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/continue.h at line 9 column 17: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/continue.h at line 10 column 20: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/continue.h at line 11 column 20: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/continue.h at line 21 column 44: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/continue.h at line 23 column 16: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/continue.h at line 30 column 9: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/continue.h at line 31 column 13: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/continue.h at line 32 column 13: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/continue.h at line 33 column 16: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/continue.h at line 34 column 16: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/continue.h at line 35 column 16: QCanvasPolygon -> Q3CanvasPolygon
+No changes made to file /home/monster/qtnqc.d/diagram_writer.h
+In file /home/monster/qtnqc.d/dragobject.h at line 9 column 21: qdragobject.h -> q3dragobject.h
+In file /home/monster/qtnqc.d/dragobject.h at line 11 column 36: QStoredDrag -> Q3StoredDrag
+In file /home/monster/qtnqc.d/dragobject.h: Added the following include directives:
+	#include <QDragMoveEvent> 	#include <QDropEvent> 
+In file /home/monster/qtnqc.d/editor.h at line 25 column 17: qcanvas.h -> q3canvas.h
+In file /home/monster/qtnqc.d/editor.h at line 16 column 16: QPopupMenu -> Q3PopupMenu
+In file /home/monster/qtnqc.d/editor.h at line 19 column 30: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.h at line 20 column 32: QValueList -> Q3ValueList
+In file /home/monster/qtnqc.d/editor.h at line 48 column 32: QCanvasView -> Q3CanvasView
+In file /home/monster/qtnqc.d/editor.h at line 60 column 28: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/editor.h at line 62 column 8: WFlags -> Qt::WFlags
+In file /home/monster/qtnqc.d/editor.h at line 71 column 57: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.h at line 74 column 57: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.h at line 77 column 63: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.h at line 83 column 47: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.h at line 94 column 30: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.h at line 101 column 10: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.h at line 106 column 10: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.h at line 111 column 10: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.h at line 116 column 10: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.h at line 121 column 10: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.h at line 126 column 10: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.h at line 131 column 10: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.h at line 136 column 10: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.h at line 141 column 10: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.h at line 146 column 10: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.h at line 162 column 10: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.h at line 163 column 10: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.h at line 164 column 10: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.h at line 165 column 10: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.h at line 166 column 10: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.h at line 167 column 10: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.h at line 168 column 10: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.h at line 169 column 10: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.h at line 170 column 10: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.h at line 171 column 10: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.h at line 172 column 10: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.h at line 173 column 10: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/editor.h at line 176 column 12: QPopupMenu -> Q3PopupMenu
+In file /home/monster/qtnqc.d/editor.h at line 177 column 12: QPopupMenu -> Q3PopupMenu
+In file /home/monster/qtnqc.d/editor.h at line 178 column 12: QPopupMenu -> Q3PopupMenu
+In file /home/monster/qtnqc.d/editor.h at line 179 column 12: QPopupMenu -> Q3PopupMenu
+In file /home/monster/qtnqc.d/editor.h at line 180 column 12: QValueList -> Q3ValueList
+In file /home/monster/qtnqc.d/editor.h at line 183 column 18: QCanvasRectangle -> Q3CanvasRectangle
+In file /home/monster/qtnqc.d/editor.h: Added the following include directives:
+	#include <QDragMoveEvent> 	#include <QDropEvent> 	#include <Q3ValueList> 	#include <QMouseEvent> 	#include <Q3PtrList> 	#include <Q3PopupMenu> 	#include <QTextStream> 	#include <QKeyEvent> 	#include <QDragEnterEvent> 
+No changes made to file /home/monster/qtnqc.d/file_class.h
+In file /home/monster/qtnqc.d/function.h at line 7 column 13: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/function.h at line 8 column 17: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/function.h at line 9 column 17: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/function.h at line 10 column 20: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/function.h at line 11 column 20: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/function.h at line 21 column 40: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/function.h at line 27 column 16: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/function.h at line 30 column 9: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/function.h at line 31 column 13: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/function.h at line 32 column 13: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/function.h at line 33 column 13: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/function.h at line 34 column 16: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/function.h at line 35 column 16: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/function.h at line 36 column 16: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/function_window.h at line 9 column 13: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/function_window.h at line 10 column 32: QValueList -> Q3ValueList
+In file /home/monster/qtnqc.d/function_window.h at line 12 column 41: QCanvasView -> Q3CanvasView
+In file /home/monster/qtnqc.d/function_window.h at line 15 column 25: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/function_window.h at line 15 column 68: WFlags -> Qt::WFlags
+In file /home/monster/qtnqc.d/function_window.h at line 28 column 9: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/function_window.h at line 30 column 12: QValueList -> Q3ValueList
+In file /home/monster/qtnqc.d/function_window.h at line 31 column 12: QValueList -> Q3ValueList
+In file /home/monster/qtnqc.d/function_window.h at line 32 column 18: QCanvasRectangle -> Q3CanvasRectangle
+In file /home/monster/qtnqc.d/function_window.h: Added the following include directives:
+	#include <Q3ValueList> 	#include <QMouseEvent> 
+In file /home/monster/qtnqc.d/gate.h at line 7 column 13: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/gate.h at line 8 column 17: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/gate.h at line 9 column 17: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/gate.h at line 10 column 20: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/gate.h at line 11 column 20: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/gate.h at line 21 column 50: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/gate.h at line 24 column 16: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/gate.h at line 33 column 9: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/gate.h at line 34 column 13: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/gate.h at line 35 column 13: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/gate.h at line 36 column 16: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/gate.h at line 37 column 16: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/gate.h at line 38 column 16: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/gate.h at line 39 column 16: QCanvasPolygon -> Q3CanvasPolygon
+No changes made to file /home/monster/qtnqc.d/qtnqc_download_thread.h
+No changes made to file /home/monster/qtnqc.d/qtnqc_limits.h
+In file /home/monster/qtnqc.d/list_objects.h at line 7 column 16: qtable.h -> q3table.h
+In file /home/monster/qtnqc.d/list_objects.h at line 10 column 19: qgroupbox.h -> q3groupbox.h
+In file /home/monster/qtnqc.d/list_objects.h at line 31 column 8: QTable -> Q3Table
+In file /home/monster/qtnqc.d/loop.h at line 9 column 13: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/loop.h at line 10 column 17: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/loop.h at line 11 column 17: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/loop.h at line 12 column 20: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/loop.h at line 13 column 20: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/loop.h at line 24 column 64: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/loop.h at line 25 column 40: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/loop.h at line 28 column 16: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/loop.h at line 35 column 9: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/loop.h at line 37 column 13: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/loop.h at line 38 column 13: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/loop.h at line 39 column 13: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/loop.h at line 40 column 16: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/loop.h at line 41 column 16: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/loop.h at line 42 column 16: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/loop.h: Added the following include directives:
+	#include <Q3PtrList> 
+In file /home/monster/qtnqc.d/object.h at line 21 column 17: qcanvas.h -> q3canvas.h
+In file /home/monster/qtnqc.d/object.h at line 9 column 17: QCanvasView -> Q3CanvasView
+In file /home/monster/qtnqc.d/object.h at line 10 column 17: QMainWindow -> Q3MainWindow
+In file /home/monster/qtnqc.d/object.h at line 12 column 30: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/object.h at line 36 column 49: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/object.h at line 37 column 10: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/object.h at line 55 column 9: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/object.h at line 57 column 10: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/object.h at line 57 column 25: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/object.h at line 69 column 9: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/object.h at line 70 column 9: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/object.h at line 73 column 10: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/object.h at line 73 column 25: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/object.h at line 76 column 13: QCanvasView -> Q3CanvasView
+In file /home/monster/qtnqc.d/object.h: Added the following include directives:
+	#include <QTextStream> 	#include <Q3PtrList> 
+In file /home/monster/qtnqc.d/options_reader.h at line 6 column 15: qdict.h -> q3dict.h
+In file /home/monster/qtnqc.d/options_reader.h at line 34 column 7: QDict -> Q3Dict
+In file /home/monster/qtnqc.d/options_reader.h at line 39 column 7: QDict -> Q3Dict
+In file /home/monster/qtnqc.d/qtnqc_main.h at line 21 column 21: qfiledialog.h -> q3filedialog.h
+In file /home/monster/qtnqc.d/qtnqc_main.h at line 22 column 21: qmainwindow.h -> q3mainwindow.h
+In file /home/monster/qtnqc.d/qtnqc_main.h at line 13 column 15: QGroupBox -> Q3GroupBox
+In file /home/monster/qtnqc.d/qtnqc_main.h at line 14 column 16: QPopupMenu -> Q3PopupMenu
+In file /home/monster/qtnqc.d/qtnqc_main.h at line 33 column 36: QMainWindow -> Q3MainWindow
+In file /home/monster/qtnqc.d/qtnqc_main.h at line 44 column 13: QMainWindow -> Q3MainWindow
+In file /home/monster/qtnqc.d/qtnqc_main.h at line 45 column 12: QValueList -> Q3ValueList
+In file /home/monster/qtnqc.d/qtnqc_main.h at line 46 column 12: QValueList -> Q3ValueList
+In file /home/monster/qtnqc.d/qtnqc_main.h at line 47 column 12: QValueList -> Q3ValueList
+In file /home/monster/qtnqc.d/qtnqc_main.h at line 60 column 13: QMainWindow -> Q3MainWindow
+In file /home/monster/qtnqc.d/qtnqc_main.h at line 61 column 12: QValueList -> Q3ValueList
+In file /home/monster/qtnqc.d/qtnqc_main.h at line 62 column 12: QValueList -> Q3ValueList
+In file /home/monster/qtnqc.d/qtnqc_main.h at line 63 column 12: QValueList -> Q3ValueList
+In file /home/monster/qtnqc.d/qtnqc_main.h: Added the following include directives:
+	#include <Q3PopupMenu> 	#include <Q3ValueList> 	#include <QCloseEvent> 
+In file /home/monster/qtnqc.d/rename_window.h at line 10 column 19: qgroupbox.h -> q3groupbox.h
+In file /home/monster/qtnqc.d/return.h at line 7 column 13: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/return.h at line 8 column 17: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/return.h at line 9 column 17: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/return.h at line 10 column 20: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/return.h at line 11 column 20: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/return.h at line 21 column 42: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/return.h at line 23 column 16: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/return.h at line 30 column 9: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/return.h at line 31 column 13: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/return.h at line 32 column 13: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/return.h at line 33 column 16: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/return.h at line 34 column 16: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/return.h at line 35 column 16: QCanvasPolygon -> Q3CanvasPolygon
+No changes made to file /home/monster/qtnqc.d/search_thread.h
+No changes made to file /home/monster/qtnqc.d/settings.h
+In file /home/monster/qtnqc.d/settings_window.h at line 9 column 20: qtabdialog.h -> q3tabdialog.h
+In file /home/monster/qtnqc.d/settings_window.h at line 10 column 21: qmainwindow.h -> q3mainwindow.h
+In file /home/monster/qtnqc.d/settings_window.h at line 19 column 40: QTabDialog -> Q3TabDialog
+In file /home/monster/qtnqc.d/settings_window.h at line 25 column 29: QMainWindow -> Q3MainWindow
+In file /home/monster/qtnqc.d/subroutine.h at line 9 column 13: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/subroutine.h at line 10 column 17: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/subroutine.h at line 11 column 17: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/subroutine.h at line 12 column 20: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/subroutine.h at line 13 column 20: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/subroutine.h at line 24 column 42: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/subroutine.h at line 25 column 14: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/subroutine.h at line 31 column 16: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/subroutine.h at line 34 column 9: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/subroutine.h at line 35 column 13: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/subroutine.h at line 36 column 13: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/subroutine.h at line 37 column 13: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/subroutine.h at line 38 column 16: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/subroutine.h at line 39 column 16: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/subroutine.h at line 40 column 16: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/subroutine.h: Added the following include directives:
+	#include <Q3PtrList> 
+In file /home/monster/qtnqc.d/task.h at line 9 column 13: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/task.h at line 10 column 17: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/task.h at line 11 column 17: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/task.h at line 12 column 20: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/task.h at line 13 column 20: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/task.h at line 24 column 36: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/task.h at line 25 column 15: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/task.h at line 31 column 16: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/task.h at line 34 column 9: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/task.h at line 35 column 13: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/task.h at line 36 column 13: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/task.h at line 37 column 13: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/task.h at line 38 column 16: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/task.h at line 39 column 16: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/task.h at line 40 column 16: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/task.h: Added the following include directives:
+	#include <Q3PtrList> 
+In file /home/monster/qtnqc.d/tools_window.h at line 9 column 13: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/tools_window.h at line 10 column 32: QValueList -> Q3ValueList
+In file /home/monster/qtnqc.d/tools_window.h at line 12 column 38: QCanvasView -> Q3CanvasView
+In file /home/monster/qtnqc.d/tools_window.h at line 15 column 22: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/tools_window.h at line 15 column 65: WFlags -> Qt::WFlags
+In file /home/monster/qtnqc.d/tools_window.h at line 27 column 9: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/tools_window.h at line 29 column 12: QValueList -> Q3ValueList
+In file /home/monster/qtnqc.d/tools_window.h at line 30 column 18: QCanvasRectangle -> Q3CanvasRectangle
+In file /home/monster/qtnqc.d/tools_window.h: Added the following include directives:
+	#include <Q3ValueList> 	#include <QMouseEvent> 
+No changes made to file /home/monster/qtnqc.d/types.h
+In file /home/monster/qtnqc.d/variable.h at line 9 column 13: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/variable.h at line 10 column 17: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/variable.h at line 11 column 17: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/variable.h at line 12 column 20: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/variable.h at line 13 column 20: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/variable.h at line 23 column 40: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/variable.h at line 24 column 20: QValueList -> Q3ValueList
+In file /home/monster/qtnqc.d/variable.h at line 27 column 16: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/variable.h at line 36 column 9: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/variable.h at line 37 column 13: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/variable.h at line 38 column 13: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/variable.h at line 39 column 13: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/variable.h at line 40 column 16: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/variable.h at line 41 column 16: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/variable.h at line 42 column 16: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/variable.h: Added the following include directives:
+	#include <Q3ValueList> 
+In file /home/monster/qtnqc.d/wire.h at line 8 column 13: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/wire.h at line 9 column 17: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/wire.h at line 10 column 17: QCanvasText -> Q3CanvasText
+In file /home/monster/qtnqc.d/wire.h at line 11 column 20: QCanvasEllipse -> Q3CanvasEllipse
+In file /home/monster/qtnqc.d/wire.h at line 12 column 20: QCanvasPolygon -> Q3CanvasPolygon
+In file /home/monster/qtnqc.d/wire.h at line 13 column 30: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/wire.h at line 27 column 14: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/wire.h at line 34 column 9: QCanvas -> Q3Canvas
+In file /home/monster/qtnqc.d/wire.h at line 35 column 10: QPtrList -> Q3PtrList
+In file /home/monster/qtnqc.d/wire.h at line 35 column 22: QCanvasLine -> Q3CanvasLine
+In file /home/monster/qtnqc.d/wire.h: Added the following include directives:
+	#include <Q3PtrList> 
+In file qtnqc.pro: Added entry QT +=  qt3support 
