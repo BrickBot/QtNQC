@@ -14,3 +14,10 @@ Compiling
 Icons
 -----
 - Icons created by GNOME.
+
+
+Note from the Orignial Author
+------------------------
+The original author is [@textbrowser](https://github.com/textbrowser) here on GitHub but is no longer maintaining this project.
+
+As of the time of this [issue comment](https://github.com/BrickBot/MacNQC/issues/1), [@textbrowser](https://github.com/textbrowser)’s current project is the [Glitch visual compiler for Arduino](https://textbrowser.github.io/glitch/) ([GitHub repository](https://github.com/textbrowser/glitch)).
